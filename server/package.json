@@ -1,0 +1,13 @@
+{
+  "name": "myAPI",
+  "version": "1.0.0",
+  "description": "test API",
+  "main": "index.js",
+  "author": "RD",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.1"
+  }
+}
